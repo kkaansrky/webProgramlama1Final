@@ -1,6 +1,5 @@
-# www.youtube.com sitesinin frontend tasarımı 
-## BS435 Web Programlama 1 Dersi Final Sınavı
-### Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü  
+# BS435 Web Programlama 1 Dersi Final Sınavı
+## Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü  
 
 Tasarlayan: **Kadir Kaan Sarıkaya**
 Öğretim Üyesi: Dr. Fehim KÖYLÜ
